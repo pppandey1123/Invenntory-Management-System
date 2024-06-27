@@ -1,0 +1,60 @@
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.csproj.AssemblyReference.cache
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory_Management_System.Login.resources
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory_Management_System.Properties.Resources.resources
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.csproj.GenerateResource.cache
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.AssemblyInfoInputs.cache
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.AssemblyInfo.cs
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.csproj.CoreCompileInputs.cache
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.exe
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.deps.json
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.runtimeconfig.json
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.pdb
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.csproj.CopyComplete
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.dll
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\refint\Invenntory Management System.dll
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.pdb
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory Management System.genruntimeconfig.cache
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\ref\Invenntory Management System.dll
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory_Management_System.InventoryItem.resources
+D:\Semester 2\c#\Invenntory Management System\bin\Debug\net6.0-windows\Invenntory Management System.dll.config
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory_Management_System.GetInvoice.resources
+D:\Semester 2\c#\Invenntory Management System\obj\Debug\net6.0-windows\Invenntory_Management_System.Signup.resources
